@@ -10,7 +10,7 @@ server:
     context-path: /renren-fast
 
 spring:
-  # 环境 dev|test|prod
+  # 环境 dev|test|prod 测试一下能不能提交
   profiles:
     active: dev
   # jackson时间格式化
